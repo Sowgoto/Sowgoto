@@ -46,13 +46,6 @@ Built a Python-based RAG-style prototype using prompt engineering, document retr
 ### 🌐 Comparative Analysis of Web Vulnerability Scanners
 Compared OpenVAS, Nikto, and Wapiti on OWASP targets such as DVWA, WebGoat, and Juice Shop.
 
----
-
-## 📊 My GitHub Activity
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sowgoto)
-
-
 
 ---
 
