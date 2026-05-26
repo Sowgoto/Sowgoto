@@ -50,9 +50,10 @@ Compared OpenVAS, Nikto, and Wapiti on OWASP targets such as DVWA, WebGoat, and 
 
 ## 📊 My GitHub Activity
 
-![Sowgoto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sowgoto&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sowgoto)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowgoto&layout=compact)
+
 
 ---
 
